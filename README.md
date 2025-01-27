@@ -1,5 +1,6 @@
 # McQuarriedShared
- A series of old scripts from F. McQuarrie Jr.
+ A series of scripts from F. McQuarrie Jr.
+ 732 616 1659
 
 BDA* - These are Python scripts I'm currently writing to help analyze detection
 efficiency of high-frequency transmissions.
